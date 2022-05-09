@@ -1,5 +1,8 @@
 _repo: Sun_67915
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67915-h/images/sun_cover.jpg
 creator:
   author:
     agent_name: Lawrence, D. H. (David Herbert)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/123
     wikipedia: https://en.wikipedia.org/wiki/D._H._Lawrence
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67915#Sun
 gutenberg_issued: '2022-04-24'
 identifiers:
   gutenberg: '67915'
